@@ -96,8 +96,7 @@ We may or may not have not logged prior to this...
 4. Alex worked on elevation.
 
 ## January 11th, 2024:
-
-Add a little something here
 ### What we did:
-1. Stuff here
-2. More here
+1. Research on x-drive orientation
+2. Started to create the code for the new robot
+3. Packing up robot and set-up for Alex to take home.
