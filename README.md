@@ -100,3 +100,9 @@ We may or may not have not logged prior to this...
 1. Research on x-drive orientation
 2. Started to create the code for the new robot
 3. Packing up robot and set-up for Alex to take home.
+
+## January 17,2024:
+### What we did:
+1. Familiarize people with Vex
+2. Coders learn to code
+3. Split into groups
