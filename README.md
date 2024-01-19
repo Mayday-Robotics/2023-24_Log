@@ -106,3 +106,9 @@ We may or may not have not logged prior to this...
 1. Familiarize people with Vex
 2. Coders learn to code
 3. Split into groups
+
+## January 19,2024
+### What we did:
+1. Coders learnt how to code
+2. Made frame for second robot
+
