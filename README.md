@@ -112,3 +112,10 @@ We may or may not have not logged prior to this...
 1. Coders learnt how to code
 2. Made frame for second robot
 
+## January 22,2024
+### What we did:
+1. Split into groups (Coders and Builders)
+- Coders (Build with Builders)
+  - "How could I code this?"
+- Builders (Building!)
+
