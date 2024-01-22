@@ -1,0 +1,106 @@
+myVariable = 0
+
+def when_started1():
+    global myVariable
+    while True:
+        if controller_1.axis3.position() > 0:
+            pass
+        wait(5, MSEC)
+
+def onevent_controller_1axis3Changed_0():
+    global myVariable
+    pass
+
+def when_started2():
+    global myVariable
+    while True:
+        if 0 > controller_1.axis3.position():
+            motor_20.set_velocity(controller_1.axis3.position(), PERCENT)
+            motor_20.spin(FORWARD)
+        elif controller_1.axis3.position() > 0:
+            motor_20.set_velocity(controller_1.axis3.position(), PERCENT)
+            motor_20.spin(FORWARD)
+        else:
+            motor_20.stop()
+        wait(5, MSEC)
+
+def when_started3():
+    global myVariable
+    while True:
+        if 0 > controller_1.axis2.position():
+            motor_11.set_velocity(controller_1.axis2.position(), PERCENT)
+            motor_11.spin(REVERSE)
+        elif controller_1.axis2.position() > 0:
+            motor_11.set_velocity(controller_1.axis2.position(), PERCENT)
+            motor_11.spin(REVERSE)
+        else:
+            motor_11.stop()
+        wait(5, MSEC)
+
+def when_started4():
+    global myVariable
+    while True:
+        if 0 > controller_1.axis1.position():
+            motor_11.set_velocity(controller_1.axis1.position(), PERCENT)
+            motor_11.spin(REVERSE)
+        elif controller_1.axis1.position() > 0:
+            motor_11.set_velocity(controller_1.axis1.position(), PERCENT)
+        else:
+            pass
+        wait(5, MSEC)
+
+def when_started5():
+    global myVariable
+    while True:
+        if controller_1.buttonL1.pressing():
+            motor_7.spin(FORWARD)
+        else:
+            motor_7.stop()
+        wait(5, MSEC)
+
+def when_started6():
+    global myVariable
+    while True:
+        if controller_1.buttonX.pressing():
+            motor_3.spin(FORWARD)
+        elif controller_1.buttonB.pressing():
+            motor_3.spin(REVERSE)
+        else:
+            motor_3.stop()
+        wait(5, MSEC)
+
+def when_started7():
+    global myVariable
+    while True:
+        if 0 > controller_1.axis1.position():
+            motor_20.set_velocity(controller_1.axis1.position(), PERCENT)
+            motor_20.spin(FORWARD)
+        elif controller_1.axis1.position() > 0:
+            motor_20.set_velocity(controller_1.axis1.position(), PERCENT)
+            motor_20.spin(REVERSE)
+        else:
+            pass
+        wait(5, MSEC)
+
+def when_started8():
+    global myVariable
+    while True:
+        if controller_1.buttonR1.pressing():
+            motor_7.spin(REVERSE)
+        else:
+            motor_7.stop()
+        wait(5, MSEC)
+
+# system event handlers
+controller_1.axis3.changed(onevent_controller_1axis3Changed_0)
+# add 15ms delay to make sure events are registered correctly.
+wait(15, MSEC)
+
+ws2 = Thread( when_started2 )
+ws3 = Thread( when_started3 )
+ws4 = Thread( when_started4 )
+ws5 = Thread( when_started5 )
+ws6 = Thread( when_started6 )
+ws7 = Thread( when_started7 )
+ws8 = Thread( when_started8 )
+when_started1()
