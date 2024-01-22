@@ -1,9 +1,5 @@
 # MAYDAY ROBOTICS LOG (2023-2024)
 This acts as a log for our 2023-2024 season.
-We may or may not have not logged prior to this...
-
-## November 26th 2023:
-### What we did:
 
 ## November 27th, 2023:
 ### What we did:
