@@ -115,3 +115,8 @@ This acts as a log for our 2023-2024 season.
   - "How could I code this?"
 - Builders (Building!)
 
+## January 24,2024
+### What we did:
+1. Anastasiia, Aryaa, and Ethan worked on replacing motors for the clawbot.
+2. Alex taught Coders how to code and push the software onto the robot
+
