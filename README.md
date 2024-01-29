@@ -120,3 +120,8 @@ This acts as a log for our 2023-2024 season.
 1. Anastasiia, Aryaa, and Ethan worked on replacing motors for the clawbot.
 2. Alex taught Coders how to code and push the software onto the robot
 
+## January 29, 2024
+### What we did:
+1. Anastasiia, Aryaa, and Ethan worked on the clawbot. They had to go through the code, and rewire everything.
+2. Alex worked on scouting the other teams on the comp on 2/9-2/10
+3. Marlon and Josef were working through the VEX Code.
