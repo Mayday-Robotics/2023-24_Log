@@ -125,3 +125,14 @@ This acts as a log for our 2023-2024 season.
 1. Anastasiia, Aryaa, and Ethan worked on the clawbot. They had to go through the code, and rewire everything.
 2. Alex worked on scouting the other teams on the comp on 2/9-2/10
 3. Marlon and Josef were working through the VEX Code.
+
+## January 31, 2024:
+### What we did:
+- Planned out many meetings until the comp.
+- 1/31, 2/1, 2/2, 2/5, 2/7, 2/8, 2/9
+- Meeting on saturday?
+- Goals:
+  - bad movement
+  - redo catapult
+  - winch to catapult
+  - sensors
