@@ -136,3 +136,8 @@ This acts as a log for our 2023-2024 season.
   - redo catapult
   - winch to catapult
   - sensors
+
+ ## February 5, 2024
+ ### What we did:
+ 1. Aryaa worked on notebook
+ 2. Alex and Nick worked on auton
