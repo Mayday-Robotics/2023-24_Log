@@ -147,3 +147,10 @@ This acts as a log for our 2023-2024 season.
 1. Aryaa and Ethan packed the toolbox for the competition
 2. Alex worked on auton
 3. Made list for what to pack
+
+## February 8,2024
+### What we did:
+1. Packed the briefcases.
+2. Finished the toolbox.
+3. Finished the auton coding.
+4. Charged the batteries
