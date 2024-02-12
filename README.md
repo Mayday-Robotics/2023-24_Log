@@ -154,3 +154,9 @@ This acts as a log for our 2023-2024 season.
 2. Finished the toolbox.
 3. Finished the auton coding.
 4. Charged the batteries
+
+## February 12,2024
+### What we did:
+1. Debriefed after the competition
+2. Unpacked briefcases and flight case.
+3. Planning for the next few weeks and next year.
