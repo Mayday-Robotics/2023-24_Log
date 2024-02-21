@@ -161,9 +161,13 @@ This acts as a log for our 2023-2024 season.
 2. Unpacked briefcases and flight case.
 3. Planning for the next few weeks and next year.
 
-### February 14,2024
+## February 14,2024
 ### What we did:
 1. Split into groups and work on robot.
    - Group 1: Nick, Aryaa, Ethan
    - Group 2: Max, Adi, Jomar
    - Group 3: Anastasia, Liv, Jack
+  
+### February 21,2024
+### What we did:
+1. Worked on drive trains
