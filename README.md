@@ -1,6 +1,79 @@
 # MAYDAY ROBOTICS LOG (2023-2024)
 This acts as a log for our 2023-2024 season.
 
+## September 18th, 2023:
+1. Introduced people to the group.
+
+## Septmeber 20th, 2023:
+### What we did:
+1. Introduced new people to the group.
+
+## September 27th, 2023:
+### What we did:
+1. Introduced all the people to the Vex Over Under game this year.
+
+## October 11th, 2023:
+### What we did:
+1. Introduced new researchers and builders to the group.
+
+## October 16th, 2023:
+### What we did:
+1. Builders made some basic drive trains.
+2. Coders wrote some basic code.
+
+## October 18th, 2023:
+### What we did:
+1. Researchers worked on looking at other designs for the drive train.
+2. Coders did the Vex intro programming skills.
+
+
+## October 20th, 2023:
+### What we did:
+1. Researched and Builders finalized the strucuter of the drive train. 
+
+## October 23rd, 2023:
+### What we did:
+1. Started working on drive train.
+
+## October 25th, 2023:
+### What we did:
+1. Worked on drive train
+
+## October 27th, 2023:
+### What we did:
+1. Finished building the drive train
+
+## October 30th, 2023:
+### What we did:
+1. New researchers watched the Vex Over Under videos.
+2. Coders looked at Alex's code and went through it.
+
+## November 1st, 2023:
+### What we did:
+1. Coders started coding the movement of the robot. (Forward, Backward, Right, Left)
+2. Builders started designing the structure of the rubber band intake.
+
+## November 6th, 2023:
+### What we did:
+1. Made the rubber band intake
+2. Attached it to the robot.
+
+## November 8th, 2023:
+### What we did:
+1. Did research from other teams.
+2. Finished the rubber band intake.
+
+## November 13th,2023:
+### What we did:
+- Replaced metal dowels from the wheels.
+- Tightened the screws.
+- Did research from other teams' robots.
+
+## November 15th, 2023:
+### What we did:
+- Brainstormed the location of the catapult on the robot.
+- Brainstormed the location of the air tank for the pneumatics
+
 ## November 27th, 2023:
 ### What we did:
 - Aryaa got all signitures of attendees from the comp on the ranking paper
