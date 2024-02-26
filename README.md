@@ -241,6 +241,11 @@ This acts as a log for our 2023-2024 season.
    - Group 2: Max, Adi, Jomar
    - Group 3: Anastasia, Liv, Jack
   
-### February 21,2024
+## February 21,2024
 ### What we did:
 1. Worked on drive trains
+
+## February 26, 2024:
+### What we did:
+1. Worked on drive trains.
+
