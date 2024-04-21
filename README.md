@@ -4,13 +4,13 @@ This acts as a log for our 2023-2024 season.
 ## September 18th, 2023:
 1. Introduced people to the group.
 
-## Septmeber 20th, 2023:
+## September 20th, 2023:
 ### What we did:
 1. Introduced new people to the group.
 
 ## September 27th, 2023:
 ### What we did:
-1. Introduced all the people to the Vex Over Under game this year.
+1. Introduced everyone to the Vex OverUnder game this year.
 
 ## October 11th, 2023:
 ### What we did:
@@ -29,11 +29,11 @@ This acts as a log for our 2023-2024 season.
 
 ## October 20th, 2023:
 ### What we did:
-1. Researched and Builders finalized the strucuter of the drive train. 
+1. Researched and Builders finalized the structure of the drive train. 
 
 ## October 23rd, 2023:
 ### What we did:
-1. Started working on drive train.
+1. Started working on the drive train.
 
 ## October 25th, 2023:
 ### What we did:
@@ -67,7 +67,7 @@ This acts as a log for our 2023-2024 season.
 ### What we did:
 - Replaced metal dowels from the wheels.
 - Tightened the screws.
-- Did research from other teams' robots.
+- Did research on other teams' robots.
 
 ## November 15th, 2023:
 ### What we did:
@@ -76,23 +76,23 @@ This acts as a log for our 2023-2024 season.
 
 ## November 27th, 2023:
 ### What we did:
-- Aryaa got all signitures of attendees from the comp on the ranking paper
-- Replaced rubber bands on the catapult, most of them broke off
+- Aryaa got all the signatures of attendees from the comp on the ranking paper
+- Replaced rubber bands on the catapult. Most of them broke off
 
 ## November 29th, 2023:
 ### What we did:
 1. Started a list of stuff we need to do after the comp
   - Replaced extending arms
-  - Replace gears in catapult
+  - Replace gears in the catapult
   - Replace wheels with small omni wheels
   - Clean up space and label everything
 
 ## November 30th, 2023:
 ### What we did:
-1. Finished the list of stuff we need to do to robot after the comp
+1. Finished the list of stuff we need to do to the robot after the comp
   - Move stuff from storage
   - Organize parts
-  - Create excel sheet for things we need to buy and budget
+  - Create Excel sheet for things we need to buy and budget
   - Make space for new parts
   
 
@@ -110,7 +110,7 @@ This acts as a log for our 2023-2024 season.
 
 ## December 6th, 2023:
 ### What we did:
-1. Thought if we would be able to go to a competition on 12/17/23. _(Decided against it, MIDTERMS)_
+1. I Thought we could go to a competition on 12/17/23. _(Decided against it, MIDTERMS)_
 2. Started to organize everything
 
 ## December 7th, 2023:
